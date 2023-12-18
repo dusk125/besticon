@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mat/besticon/v3/lettericon"
+	"github.com/dusk125/besticon/v3/lettericon"
 )
 
 var (

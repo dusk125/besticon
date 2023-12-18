@@ -1,4 +1,4 @@
-module github.com/mat/besticon/v3
+module github.com/dusk125/besticon/v3
 
 // +heroku goVersion go1.21
 

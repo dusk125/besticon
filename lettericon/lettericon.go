@@ -23,9 +23,9 @@ import (
 	"golang.org/x/image/math/fixed"
 	"golang.org/x/net/publicsuffix"
 
+	"github.com/dusk125/besticon/v3/colorfinder"
+	"github.com/dusk125/besticon/v3/lettericon/fonts"
 	"github.com/golang/freetype/truetype"
-	"github.com/mat/besticon/v3/colorfinder"
-	"github.com/mat/besticon/v3/lettericon/fonts"
 )
 
 const dpi = 72

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mat/besticon/v3/ico"
+	"github.com/dusk125/besticon/v3/ico"
 )
 
 func main() {
